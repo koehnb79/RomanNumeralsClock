@@ -1,0 +1,25 @@
+# ninja log v5
+0	1135	0	src/romannumeralwatch.o	4eff48504765e5ba
+1139	1405	0	romannumeralwatch	e042409b17589327
+3	977	0	src/romannumeralwatch.o	4eff48504765e5ba
+977	1344	0	romannumeralwatch	e042409b17589327
+3	3624	0	src/romannumeralwatch.o	15c75c5208dd0231
+3627	5001	0	romannumeralwatch	563a78bfad970030
+4	813	0	src/romannumeralwatch.o	15c75c5208dd0231
+813	1124	0	romannumeralwatch	563a78bfad970030
+2	774	0	src/romannumeralwatch.o	15c75c5208dd0231
+775	1067	0	romannumeralwatch	563a78bfad970030
+2	838	0	src/romannumeralwatch.o	15c75c5208dd0231
+838	1172	0	romannumeralwatch	563a78bfad970030
+0	95	0	clean_sa	e0fb0da511e6662d
+95	109	0	clean	d59b6dac04fa9b5d
+3	793	0	src/romannumeralwatch.o	15c75c5208dd0231
+793	1068	0	romannumeralwatch	563a78bfad970030
+4	782	0	src/romannumeralwatch.o	15c75c5208dd0231
+782	1059	0	romannumeralwatch	563a78bfad970030
+2	952	0	src/romannumeralwatch.o	15c75c5208dd0231
+952	1272	0	romannumeralwatch	563a78bfad970030
+3	862	0	src/romannumeralwatch.o	15c75c5208dd0231
+862	1198	0	romannumeralwatch	563a78bfad970030
+2	848	0	src/romannumeralwatch.o	15c75c5208dd0231
+849	1185	0	romannumeralwatch	563a78bfad970030

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns="http://tizen.org/ns/packages" package="org.solemntree.romannumeralwatch" api-version="2.3.1" version="1.0.0">
+	<profile name="wearable" />
+	<watch-application appid="org.solemntree.romannumeralwatch" exec="romannumeralwatch" ambient-support="true">
+		<icon>romannumeralwatch.png</icon>
+		<label>romannumeralwatch</label>
+	</watch-application>
+	<privileges>
+		<privilege>http://tizen.org/privilege/alarm.set</privilege>
+	</privileges>
+</manifest>
